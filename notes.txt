@@ -1,0 +1,1 @@
+docker run --rm -it --name testVshare -v /home/mt/Documents/yocto/poky/:/home/dev/poky/ ubuntu-yocto:0.1
